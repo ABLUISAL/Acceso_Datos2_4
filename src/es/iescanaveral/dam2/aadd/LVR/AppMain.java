@@ -18,6 +18,10 @@ public class AppMain {
 		Conexiones conexion = new Conexiones();
 		Scanner sc = new Scanner(System.in);
 		// Conexiones conexiones = new Conexiones();
+		
+		/**
+		 * este es un comentario de prueba
+		 */
 
 		// imprrimir por pantalla la opcion deseada
 		System.out.println("Introduzca la operación a realizar la base de datos:\n"
