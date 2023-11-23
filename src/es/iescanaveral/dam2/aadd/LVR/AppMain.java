@@ -20,7 +20,9 @@ public class AppMain {
 		// Conexiones conexiones = new Conexiones();
 		
 		/**
-		 * este es un comentario de prueba
+		 * este es un comentario de prueba desde eclipse.... 
+
+   			este mensaje es desde github			
 		 */
 
 		// imprrimir por pantalla la opcion deseada
